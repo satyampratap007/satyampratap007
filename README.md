@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Strong in Data Structures & Algorithms | Aspiring Data Engineer with Proficiency in JavaScript</h3>
 
 
-<p align = "center">🌱 I’m currently learning **Data Engineering and Java**</p>
+<p align = "center">🌱 I’m currently learning Java</p>
 <h3 align="center">About Me</h3>
 <p align="center">
   🚀 I am Satyam Pratap, a dedicated and passionate Software Engineer with a strong foundation in Data Structures and Algorithms. With a Bachelor's degree in Computer Science Engineering from Chandigarh University, I have honed my technical skills and developed a keen interest in data engineering and JavaScript.
