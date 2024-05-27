@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satyam Pratap</h1>
-<h3 align="center">Software Engineer | Strong in Data Structures & Algorithms | Aspiring Data Engineer with Proficiency in JavaScript</h3>
+<h3 align="center">Software Engineer | Strong in Data Structures & Algorithms | Aspiring Software Engineer with Proficiency in Frontend</h3>
 
 
 <p align = "center">🌱 I’m currently learning Java Full Stack 💻 </p>
